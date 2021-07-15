@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hyunjae-kim91/movie_app_2021/static/css/main.d0b95378.chunk.css",
+    "main.js": "/hyunjae-kim91/movie_app_2021/static/js/main.d73284af.chunk.js",
+    "main.js.map": "/hyunjae-kim91/movie_app_2021/static/js/main.d73284af.chunk.js.map",
+    "runtime-main.js": "/hyunjae-kim91/movie_app_2021/static/js/runtime-main.11c38db7.js",
+    "runtime-main.js.map": "/hyunjae-kim91/movie_app_2021/static/js/runtime-main.11c38db7.js.map",
+    "static/js/2.95e6a4cb.chunk.js": "/hyunjae-kim91/movie_app_2021/static/js/2.95e6a4cb.chunk.js",
+    "static/js/2.95e6a4cb.chunk.js.map": "/hyunjae-kim91/movie_app_2021/static/js/2.95e6a4cb.chunk.js.map",
+    "index.html": "/hyunjae-kim91/movie_app_2021/index.html",
+    "static/css/main.d0b95378.chunk.css.map": "/hyunjae-kim91/movie_app_2021/static/css/main.d0b95378.chunk.css.map",
+    "static/js/2.95e6a4cb.chunk.js.LICENSE.txt": "/hyunjae-kim91/movie_app_2021/static/js/2.95e6a4cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c38db7.js",
+    "static/js/2.95e6a4cb.chunk.js",
+    "static/css/main.d0b95378.chunk.css",
+    "static/js/main.d73284af.chunk.js"
+  ]
+}
